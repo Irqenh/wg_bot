@@ -1,0 +1,23 @@
+{
+  "name": "wg_tg_bot",
+  "version": "1.0.0",
+  "description": "Wireguard telegram bot for Irqenh's friends",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Irqenh/wg_bot.git"
+  },
+  "keywords": [
+    "telegram",
+    "wieguard"
+  ],
+  "author": "Irqenh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Irqenh/wg_bot/issues"
+  },
+  "homepage": "https://github.com/Irqenh/wg_bot#readme"
+}
